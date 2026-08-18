@@ -1,7 +1,6 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
 
-        // Binary search smaller array par karenge
         if (nums1.length > nums2.length) {
             return findMedianSortedArrays(nums2, nums1);
         }
@@ -23,27 +22,22 @@ class Solution {
             int left2 = (cut2 == 0) ? Integer.MIN_VALUE : nums2[cut2 - 1];
             int right2 = (cut2 == n) ? Integer.MAX_VALUE : nums2[cut2];
 
-            // Correct partition mil gaya
             if (left1 <= right2 && left2 <= right1) {
 
-                // Even number of elements
                 if ((m + n) % 2 == 0) {
                     return (Math.max(left1, left2)
                             + Math.min(right1, right2)) / 2.0;
                 }
 
-                // Odd number of elements
                 else {
                     return Math.max(left1, left2);
                 }
             }
 
-            // nums1 ka partition right side move karega
             else if (left1 > right2) {
                 high = cut1 - 1;
             }
 
-            // nums1 ka partition left side move karega
             else {
                 low = cut1 + 1;
             }
