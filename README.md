@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0079-word-search) |
 ## Sliding Window
