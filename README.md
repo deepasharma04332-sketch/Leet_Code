@@ -181,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0056-merge-intervals) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
