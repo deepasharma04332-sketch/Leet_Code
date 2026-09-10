@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0057-insert-interval) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
