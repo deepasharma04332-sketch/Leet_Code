@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0169-majority-element) |
 ## Manacher
 |  |
 | ------- |
@@ -232,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
