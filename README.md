@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
