@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
@@ -248,5 +250,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
