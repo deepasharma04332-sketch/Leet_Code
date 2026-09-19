@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Backtracking
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0100-same-tree) |
 ## Matrix
 |  |
