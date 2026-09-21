@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0119-pascals-triangle-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
