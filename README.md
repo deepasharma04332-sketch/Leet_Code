@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
