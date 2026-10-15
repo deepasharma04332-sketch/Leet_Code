@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0057-insert-interval) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0070-climbing-stairs) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0079-word-search) |
 ## Greedy
