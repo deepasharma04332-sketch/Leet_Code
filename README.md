@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0057-insert-interval) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0169-majority-element) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0079-word-search) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0169-majority-element) |
