@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0292-nim-game) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0089-gray-code) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0191-number-of-1-bits) |
