@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0485-max-consecutive-ones) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
