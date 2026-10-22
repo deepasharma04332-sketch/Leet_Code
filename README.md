@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0118-pascals-triangle) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0144-binary-tree-preorder-traversal) |
 ## Bracket Sequences
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 ## Counting
 |  |
 | ------- |
@@ -415,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0303-range-sum-query-immutable) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
