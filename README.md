@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0674-longest-continuous-increasing-subsequence) |
 ## Hash Table
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
