@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0070-climbing-stairs) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0060-permutation-sequence) |
 ## String
 |  |
 | ------- |
