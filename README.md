@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0292-nim-game) |
 ## Recursion
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0171-excel-sheet-column-number) |
 ## Sliding Window
 |  |
 | ------- |
