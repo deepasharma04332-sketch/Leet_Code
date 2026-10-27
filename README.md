@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -450,8 +453,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
