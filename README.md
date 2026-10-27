@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0697-degree-of-an-array) |
 ## Hash Table
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0079-word-search) |
+| [0661-image-smoother](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0661-image-smoother) |
 ## Greedy
 |  |
 | ------- |
