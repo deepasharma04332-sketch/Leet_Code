@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0506-relative-ranks) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0239-sliding-window-maximum) |
+| [0506-relative-ranks](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0506-relative-ranks) |
 ## Merge Sort
 |  |
 | ------- |
