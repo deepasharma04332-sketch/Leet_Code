@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0697-degree-of-an-array) |
 ## Linked List
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0496-next-greater-element-i) |
 ## Counting
 |  |
 | ------- |
