@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0495-teemo-attacking) |
 | [0643-maximum-average-subarray-i](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0455-assign-cookies) |
 ## Database
 |  |
 | ------- |
