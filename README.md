@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0704-binary-search) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0240-search-a-2d-matrix-ii) |
 ## Manacher
 |  |
 | ------- |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0463-island-perimeter) |
 | [0661-image-smoother](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0661-image-smoother) |
 ## Greedy
