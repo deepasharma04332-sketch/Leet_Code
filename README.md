@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0239-sliding-window-maximum) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0221-maximal-square](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0221-maximal-square) |
 ## Stack
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0079-word-search) |
+| [0221-maximal-square](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0463-island-perimeter) |
 | [0661-image-smoother](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0661-image-smoother) |
