@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0079-word-search) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0119-pascals-triangle-ii) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0221-maximal-square) |
