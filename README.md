@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0860-lemonade-change) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
