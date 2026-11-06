@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0455-assign-cookies) |
+| [0832-flipping-an-image](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0463-island-perimeter) |
 | [0661-image-smoother](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0191-number-of-1-bits) |
+| [0832-flipping-an-image](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0495-teemo-attacking) |
+| [0832-flipping-an-image](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0832-flipping-an-image) |
 ## Memoization
 |  |
 | ------- |
