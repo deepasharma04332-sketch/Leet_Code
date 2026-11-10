@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0860-lemonade-change) |
 ## Hash Table
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0724-find-pivot-index) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
