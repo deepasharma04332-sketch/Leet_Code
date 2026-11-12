@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0125-valid-palindrome) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0455-assign-cookies) |
 ## Database
 |  |
@@ -538,4 +542,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0239-sliding-window-maximum) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
