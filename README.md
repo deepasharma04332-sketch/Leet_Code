@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0229-majority-element-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -581,4 +584,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0075-sort-colors) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
