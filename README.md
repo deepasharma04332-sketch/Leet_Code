@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0485-max-consecutive-ones) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0292-nim-game) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/deepasharma04332-sketch/Leet_Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Recursion
 |  |
 | ------- |
